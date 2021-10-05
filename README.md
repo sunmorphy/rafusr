@@ -9,7 +9,7 @@ My name is Andikas. that's it!
 </a>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafusr&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafusr&theme=nord_dark)
 <!--
 **rafusr/rafusr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
