@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-My name is Andikas. that's it!
+###My name is Andikas. that's it!
 
 <p align="left">
 <a href="https://github.com/snowfluke">
