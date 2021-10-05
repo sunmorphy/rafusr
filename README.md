@@ -2,8 +2,8 @@
 
 My name is Andikas. that's it!
 
-![Andikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafusr&theme=radical&show_icons=true) ![Rafusr](https://github-readme-stats.vercel.app/api/top-langs/?username=rafusr&hide=html&layout=compact&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafusr&theme=monokai)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafusr&theme=nord_dark&show_icons=true) ![Rafusr](https://github-readme-stats.vercel.app/api/top-langs/?username=rafusr&hide=html&layout=compact&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafusr&theme=nord_dark)
 <!--
 **rafusr/rafusr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
