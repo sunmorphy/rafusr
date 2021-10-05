@@ -8,7 +8,8 @@ My name is Andikas. that's it!
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafusr&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafusr&theme=nord_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafusr&theme=github_dark)
 <!--
 **rafusr/rafusr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
