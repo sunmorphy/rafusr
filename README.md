@@ -1,6 +1,12 @@
-## Hi there 👋
+## Hola Mundo!
 
-### My name is Andikas. Just that.
+I'm [Andika Sultan](https://github.com/rafusr) - a fresh graduate who is learning about android and web development, he also wants to expand his experience in other software development.
+
+I currently have an interest in multiplatform development using Flutter
+
+and Sunflower🌻
+
+## Statistic
 
 <p align="left">
 <a href="https://github.com/snowfluke">
@@ -10,6 +16,7 @@
 </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafusr&theme=nord_dark)
+
 <!--
 **rafusr/rafusr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
