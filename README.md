@@ -6,7 +6,7 @@ I currently have an interest in multiplatform development using Flutter
 
 and Sunflower🌻
 
-## Statistic
+## Statistics
 
 <p align="left">
 <a href="https://github.com/snowfluke">
