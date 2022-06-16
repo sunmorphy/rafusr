@@ -4,7 +4,7 @@ I'm [Andika Sultan](https://github.com/rafusr) - a fresh graduate who is learnin
 
 I currently have an interest in multiplatform development using Flutter
 
-and Sunflower🌻
+and Flowers?🌻
 
 ## Statistics
 
