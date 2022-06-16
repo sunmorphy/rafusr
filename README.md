@@ -2,6 +2,11 @@
 
 I'm [Andika Sultan](https://github.com/rafusr) - a fresh graduate from Indonesia who is learning about android and web development, I also wants to expand my experience in other software development, I currently have an interest in multiplatform development using Flutter and Flowers?🌻.
 
+I'm looking to collaborate for projects, reach me at 
+
+<a href="https://www.linkedin.com/in/andika-sultanrafli"><img src="/assets/linkedIn_logo.png" alt="icon" width="24px"/></a>
+<a href="mailto:andika.sultanra@gmail.com"><img src="/assets/mail_icon.png" alt="icon" width="28px"/></a>
+
 ## Statistics
 
 <p align="left">
