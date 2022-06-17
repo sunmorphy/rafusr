@@ -1,6 +1,6 @@
 ## Halo Dunia!
 
-I'm [Andika Sultan](https://github.com/rafusr) - a fresh graduate from Indonesia who is learning about android and web development, I also wants to expand my experience in other software development, I currently have an interest in multiplatform development using Flutter and Flowers?🌻.
+I'm [Andika Sultan](https://github.com/rafusr) - a fresh graduate from Indonesia who is learning about android and web development, I also wants to expand my experience in other software development, currently I have an interest in multiplatform development using Flutter and Flowers?🌻.
 
 I'm looking to collaborate for projects, reach me at 
 
